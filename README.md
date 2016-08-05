@@ -9,3 +9,5 @@ To install the scheme locally for the current user, simply copy the
 
 For a global installation, a copy needs to be put into
 `/usr/share/geany/colorschemes/`.
+
+![Screenshot of 'Cobalt' on Geany](cobalt-geany.png)
